@@ -1,0 +1,144 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.section-bg-color{
+    background-color: #F0FFF0;
+}
+.logo{
+    width: 198px;
+    height: 59px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.btn{
+    width: 104px;
+    height: 43;
+    border-radius: 36px;
+}
+.h5-color{
+    color: coral;
+}
+.h1-weight{
+    font-weight: 800;
+}
+.schedule-color{
+    color: #21B573;
+}
+.get-started-button{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 30px;
+}
+.get-started-button:hover{
+    background-color: grey;
+}
+.icons-1{
+    width: 66px;
+    height: 85px;
+    left: 231px;
+    top: 672px;
+    margin-left: 36%;
+    margin-top: 10%;
+}
+.icons-2{
+    width: 80px;
+    height: 83px;
+    left: 535px;
+    top: 670px;
+    margin-left: 36%;
+    margin-top: 10%;
+}
+.icons-3{
+    width: 75px;
+    height: 80px;
+    left: 831px;
+    top: 670px;
+    margin-left: 36%;
+    margin-top: 10%;
+}
+.icons-4{
+    width: 68px;
+    height: 76px;
+    left: 1141px;
+    top: 677px;
+    margin-left: 36%;
+    margin-top: 10%;
+}
+.card-title, .card-text{
+    text-align: center;
+}
+.card{
+    background-color: #F8FFFB;
+    border: none;
+}
+.card:hover{
+    box-shadow: 4px 5px 3px 1px rgb(185, 185, 184);
+    background-color: rgb(255, 255, 255);
+}
+.card-title{
+    color: #413960;
+}
+.courses{
+    text-align: center;
+    color: #413960;
+    font-weight: 800;
+}
+.card-footer{
+    border: none;
+    background: none;
+}
+.calendar-people-icon{
+    width: 20px;
+    height: 20px;
+}
+.blog{
+    text-align: center;
+    color: #413960;
+    font-weight: 800;
+}
+.quote{
+    margin-top: 10%;
+    vertical-align: middle;
+}
+hr{
+    margin-bottom: 70px;
+    padding: 10px 20px;
+    background-color:#F0FFF0;
+    border: none;
+    border-radius: 10px;
+}
+.others{
+    list-style: none;
+    color: snow;
+}
+a{
+    text-decoration: none;
+}
+.copyright{
+    text-align: center;
+    color: snow;
+}
+.footer-margin{
+    margin-top: 50px;
+}
+.main-part{
+    background-color: #F0FFF0;
+    padding-top: 0px;
+}
+.footer-part{
+    background-color: #282531;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.others a{
+    text-decoration: none;
+    color: snow;
+}
+.sign-in{
+    text-align: center;
+    color: #413960;
+    font-weight: 800;
+}
